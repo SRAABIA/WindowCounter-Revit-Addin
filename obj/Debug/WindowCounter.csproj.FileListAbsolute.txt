@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\WindowCounter\bin\Debug\WindowCounter.dll
+C:\Users\HP\source\repos\WindowCounter\bin\Debug\WindowCounter.pdb
+C:\Users\HP\source\repos\WindowCounter\obj\Debug\WindowCounter.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\WindowCounter\obj\Debug\WindowCounter.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\WindowCounter\obj\Debug\WindowCounter.dll
+C:\Users\HP\source\repos\WindowCounter\obj\Debug\WindowCounter.pdb

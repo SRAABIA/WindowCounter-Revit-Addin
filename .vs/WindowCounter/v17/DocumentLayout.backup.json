@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\WindowCounter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93FFB2-9A19-4C27-9A03-DBD2BE169456}|WindowCounter.csproj|c:\\users\\hp\\source\\repos\\windowcounter\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93FFB2-9A19-4C27-9A03-DBD2BE169456}|WindowCounter.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93FFB2-9A19-4C27-9A03-DBD2BE169456}|WindowCounter.csproj|c:\\users\\hp\\source\\repos\\windowcounter\\counter.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7B93FFB2-9A19-4C27-9A03-DBD2BE169456}|WindowCounter.csproj|solutionrelative:counter.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "counter.addin",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WindowCounter\\counter.addin",
+              "RelativeDocumentMoniker": "counter.addin",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WindowCounter\\counter.addin",
+              "RelativeToolTip": "counter.addin",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000072|",
+              "WhenOpened": "2024-08-08T08:28:22.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WindowCounter\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WindowCounter\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T08:13:01.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

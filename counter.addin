@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>Window Counter</Name>
+		<FullClassName>WindowCounter.CollectWindows</FullClassName>
+		<Text>Window Counter</Text>
+		<Description>Shows Number Of Total Windows</Description>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+		<Assembly>C:\Users\HP\source\repos\WindowCounter\bin\Debug\WindowCounter.dll</Assembly>
+		<AddInId>50104EC5-420C-4A79-942C-3A3C2C0247DC</AddInId>
+		<VendorId>ADSK</VendorId>
+		<VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>
