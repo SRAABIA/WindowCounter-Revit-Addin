@@ -38,10 +38,13 @@ The Window Counter is a Revit add-in that counts the total number of window elem
     - Go to `External Tools`.
     - Select `Window Counter` to run the add-in.
     - A task dialog will appear displaying the total number of windows in the project.
+## Output
+![img1](https://github.com/SRAABIA/WindowCounter-Revit-Addin/blob/main/p1.png)
+![img2](https://github.com/SRAABIA/WindowCounter-Revit-Addin/blob/main/p2.png)
+
 
 ## Contributing
 Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
-
 
 ## Contact
 For any questions or issues, please contact me at sraabiahh@gmail.com .
